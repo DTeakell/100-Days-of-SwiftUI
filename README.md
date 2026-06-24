@@ -3,3 +3,4 @@ Repository to show finished checkpoints and projects from the 100 Days of SwiftU
 
 ## Checkpoints
 - Checkpoint 1 - Simple Data
+- Checkpoint 2 - Complex Data
