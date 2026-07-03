@@ -9,3 +9,4 @@ Repository to show finished checkpoints and projects from the 100 Days of SwiftU
 - Checkpoint 5 - Closures
 - Checkpoint 6 - Structs
 - Checkpoint 7 - Classes
+- Checkpoint 8 - Protocols and Extensions
